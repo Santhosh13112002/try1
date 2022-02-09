@@ -2,7 +2,11 @@ class A
 {
       public A()
       {
+            int a=30;
+            int b=20;
             System.out.println("welcome to java programming");
+            System.out.println(a);
+            System.out.println(b);
       }
 
 }
