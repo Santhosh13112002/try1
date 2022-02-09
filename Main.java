@@ -2,7 +2,7 @@ class A
 {
       public A()
       {
-            System.out.println("First Git");
+            System.out.println("welcome to java programming");
       }
 
 }
